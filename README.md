@@ -1,12 +1,36 @@
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 1 49 06 PM" src="https://github.com/user-attachments/assets/86ee32cf-b5a1-4659-b087-c44defd39802" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 1 52 26 PM" src="https://github.com/user-attachments/assets/db967a08-872c-4a49-b877-ba4e9b88cde7" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 1 53 21 PM" src="https://github.com/user-attachments/assets/1d37354f-0244-4c49-9712-e5f6c8622f92" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 1 54 53 PM" src="https://github.com/user-attachments/assets/c9a8746a-a6df-4af7-a3de-0f80d6dd5eef" />
 
-This project analyzes customer purchasing behavior to understand how different buying patterns contribute to revenue. Instead of focusing only on total revenue, the dashboard compares purchase frequency, average order value, customer activity, and category performance to provide a deeper view of customer value.
+# Sales Operations & Order Tracking | Excel
 
-Do customers with the highest revenue also purchase the most frequently? This project explores that question by identifying different customer behaviors and their impact on business performance.
+This project analyzes sales data to track orders, understand customer behavior, and monitor sales performance.
 
-The analysis shows that high revenue does not always come from frequent purchases. Some loyal customers generate steady revenue through many small orders, while others contribute similar revenue with only a few high-value transactions. It also highlights differences in category performance and emphasizes the importance of customer retention for sustaining future revenue.
+## Key Features
 
-This project is built by : Power BI, Power Query, DAX, Data Modeling, and Data Visualization.
+- **Sales KPIs:** Total Sales, Number of Orders, Number of Customers, and Average Order Value.
+- **Sales Analysis:** Sales by Sales Representative, Customer, City, and Order Status.
+- **Monthly Trends:** Tracks sales performance over time.
+- **Interactive Filters:** Filter data by Year and Month.
+- **Detailed Reports:** PivotTables for deeper sales analysis.
 
+## Data Cleaning
 
-Customer value is determined not only by how much revenue they generate, but also by how they generate it. Understanding purchasing behavior enables better customer segmentation and supports more informed business decisions.
-<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 12 28 27 PM" src="https://github.com/user-attachments/assets/26f0a74c-9ce6-4c55-8b3b-6f28eb048b66" />
+- Removed duplicate records.
+- Standardized customer names and city names.
+- Checked data quality.
+- Added Year and Month fields.
+
+## Tools Used
+
+- Microsoft Excel
+- Data Cleaning
+- PivotTables
+- PivotCharts
+- Slicers
+- Excel Dashboard
+
+## Project Goal
+
+To organize sales data into clear reports that help monitor orders, understand sales trends, and support better business decisions.
